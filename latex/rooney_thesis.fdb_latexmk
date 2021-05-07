@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex rooney_thesis"] 1620236160 "rooney_thesis.aux" "rooney_thesis.bbl" "rooney_thesis" 1620236160
+["bibtex rooney_thesis"] 1620395474 "rooney_thesis.aux" "rooney_thesis.bbl" "rooney_thesis" 1620395476
   "/usr/share/texlive/texmf-dist/bibtex/bst/base/plain.bst" 1292289607 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "rooney_thesis.aux" 1620236090 2246 56be315acbab153fd7b6601534ee3652 "pdflatex"
-  "simple.bib" 1620233782 9334 704ac33e490d9971dd10eb7f6ab9a333 ""
+  "rooney_thesis.aux" 1620395370 2429 bda4045904d72d32f0a5f3519479a206 "pdflatex"
+  "simple.bib" 1620391392 9618 6f39076a20cffb9ff667749a1b02589d ""
   (generated)
   "rooney_thesis.blg"
   "rooney_thesis.bbl"
-["pdflatex"] 1620236160 "rooney_thesis.tex" "rooney_thesis.pdf" "rooney_thesis" 1620236160
+["pdflatex"] 1620395476 "rooney_thesis.tex" "rooney_thesis.pdf" "rooney_thesis" 1620395476
   ".images/gold_foil_device.png" 1619050265 119352 89ce43fed2521d52629a2cdac3999446 ""
   ".images/mott_dirac_188mev.png" 1620229864 86426 3c69af7b613913603bb2c0cc9f422cec ""
   ".images/plumenergy.png" 1619071035 33431 4b3d3e867180f4b592095416627127a5 ""
@@ -63,9 +63,9 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1581979058 38841 ce3692aa899bb693b90b87eaa5d4d84e ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1607473219 128028 f533b797fba58d231669ea19e894e23e ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1607473228 4791332 1c92889f569ae27d18f606665dbb40c0 ""
-  "rooney_thesis.aux" 1620236090 2246 56be315acbab153fd7b6601534ee3652 "pdflatex"
-  "rooney_thesis.bbl" 1620236160 1186 9288a0f8f040f151eddacf4af53b913e "bibtex rooney_thesis"
-  "rooney_thesis.tex" 1620236158 14515 b5ebef7514b7cb1f491fcbbb25499742 ""
+  "rooney_thesis.aux" 1620395370 2429 bda4045904d72d32f0a5f3519479a206 "pdflatex"
+  "rooney_thesis.bbl" 1620395474 1567 b3bc8e41deed1dcfae8c21697db7badd "bibtex rooney_thesis"
+  "rooney_thesis.tex" 1620395474 17899 0d094970203ad54cf7208cfb7e836561 ""
   (generated)
   "rooney_thesis.pdf"
   "rooney_thesis.aux"
