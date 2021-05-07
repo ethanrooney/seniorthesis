@@ -1,0 +1,54 @@
+---
+title: "Rutherford Notes"
+author: "Ethan Rooney"
+date: "2021-01-26"
+---
+
+\alpha and \beta particles deflect from their straight line path when they pass through matter.
+
+A small number ~1/20000 deflect by >90^{\Circ} when fired through a gold foil sheet of 4\*10^{-5}cm. 
+
+Previous calculations by Geiger would predict that an \alpha would deflect by 0.87^{\Circ}.
+
+Give this small angle of deflection, one should not expect their to be any deflections >90^{\Circ} from a single interaction between an \alpha and an atom.
+
+Due to the thickness of the gold foil, multiple scattering causing a large deflection is also unlikely.
+
+We should therefor assume that the deflection of the \alpha is due to a single scattering from an atom.
+
+"A simple calculation shows that the atom must be a seat of an intense electric field in order to produce such a large deflection at a single encounter." What calculation is this? Why couldn't it just be a very weak field from a point particle that the \alpha passes very close to.
+
+Thompson proposes a plum pudding model of the atom.
+
+His model suggests that the average deflection of an atom is found by $\sqrt{m}\*\theta$. Where m is the number of collisions and \theta is the average deflection of a single collision. 
+
+From Rutherford findings if deflection = 90^{\Circ} then $m=(90/0.87)^2\approx10000$
+
+Number of electrons = 3x(atomic mass)? Is this before the AMU was standardized? Wouldn't we expect it to be ~1/2?
+
+Pg 671, Why doesn't it matter the charges on the atom or the incident particle?
+
+Electric force(X) and Electric Potential(V):
+[\
+X = N_e(1/r^2-r/R^3)
+V = N_e(1/r-3/(2R)+r^2/(2R^3)
+\]
+
+Where did these come from?
+
+Then to calculate the Closest approach b:
+1/2\*m\*u^2 is the energy of the incoming particle
+
+From conservation of energy:
+
+1/2\*m\*u^2 = N_e\*E(1/b - 3/(2R)+b^2/(2R^3))
+
+Where E is the charge of the \alpha particle.
+
+Page 673 what is $p$?
+
+Alright, the Atom is centered on S, the atom then travels towards S, but is offset from the center by some value p. If $p=0$ then the particle would recoil 180^{\Circ} from its initial path, b is the value of the closest approach assuming that the particle was on a direct collision course with the nucleus.
+
+The attractive/repulsive nature of the interactions is irrelevant
+
+A^2/3?

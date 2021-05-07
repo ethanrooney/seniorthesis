@@ -1,0 +1,100 @@
+---
+author: 'Ethan Rooney'
+date: 'Spring 2021'
+title: 'History of Proton Radius'
+---
+
+# Rutherford
+
+## Gold Foil Experiment
+
+Dr. Hans Geiger and an undergraduate assistant Ernest Marsden, constructed an experiment to assist Ernest Rutherford in probing the structure of the nucleus. The experimental apparatus was ingenious and deceptively simple. 
+
+In 1908, the backscatter of $\alpha$ particles from a thin gold foil was something that wasn't supposed to be possible. The best understanding of the natural world said: the energy carried by alpha particles should allow them to punch right through the atoms of gold with only a tiny deflection. Most of the time, that is exactly what happened. $\alpha$ particles would pass through the foil with just the smallest of deflections ~$0.87^\circ$, but one out of every 20,000 $\alpha$ particles would bounce back the way it came from.
+
+Rutherford, continued exploring this with another newly discovered particle, the $\beta$ particle. From other experiments, he knew that the $beta$ had an opposite charge, as the $\alpha$, but when fired into a gold foil, they behaved similarly. Most $\beta$ particles passed through the foil, but some would bounce backwards.
+
+He knew that atoms were usually neutrally charged objects, and sometimes they could be compelled to take a slight positive or negative charge, but for the most part had to be neutrally charged objects. The running explanation had a diffuse cloud of positive charge, spread over the whole range of the influence of the atom ~$10^{-10}$ meters, with negative points embedded inside. This Plum-Pudding model, couldn't generate a strong enough electric field to turn the charged particles around. Like a ball rolling up a hill, the particles would slowdown, be deflected,  and regain speed as they rolled back down, but they jut couldn't be sent back the way they came.
+
+# Equation of the E-field diffuse here.
+
+#Graph of e-field for a point particle vs diffuse atom here
+
+Rutherford instead suggested another model for the charge distribution inside the atom, It is this model of the atom that most of us picture, with a central positive charge, and orbiting electrons on the outside. He also knew that because of the charges involved that the electric field would only play a significant role if the $\beta$ particles penetrated inside of the electron layer. 
+
+#Graph of e-field of a neutral atom here
+
+$V = Ne(\frac{1}{r} - \frac{3}{2R} + \frac{r^2}{2R^3})$
+
+$E = -\frac{dV}{dr} = Ne(\frac{1}{r^2} - \frac{r}{R^3})$
+
+Where V is the Electric potential, E is the electric field, r is the distance from the center of the atom, R is the Radius of the Electron orbits, k is the Coulomb constant, N is the Atomic Number, e is the elemental charge.
+
+In the equation for the Electric field above, the positive contribution is from the central charge, and the negative term is from the electrons surrounding it. With this new model the field attains a strength high enough to turn some incoming particles around, while allowing for most particles coming in to undergo a relatively small deflection.
+
+Let's take a look at what would cause a direct collision, if an $\alpha$ particle was fired directly at the central charge, at a fixed velocity, It would carry with it the following energy.
+
+$KE = \frac{1}{2}mv^2$
+
+From a conservation of energy standpoint, the particle would have to come to a complete stop when the potential energy of system was equal to the initial kinetic energy. Given that the potential energy of a charged particle is:
+
+$PE = Vq = qNe(\frac{1}{r^2} - \frac{r}{R^3})$
+
+$\frac{1}{2}mv^2 =  qNe(\frac{1}{r} - \frac{3}{2R} + \frac{r^2}{2R^3})$
+
+Assuming r is very small compared to R when the particle stops, the above equation can be simplified.
+
+$\frac{1}{2}mv^2 = qNe(\frac{1}{r} - \frac{3}{2R})$
+
+Thus we find the stopping distance $b=[\frac{2qNe}{mv^2} + \frac{3}{2R}]^{-1}$.
+
+
+
+# PRad
+
+
+# Introduction:
+How do you measure something you cannot see?
+
+# Classical E&M Expectations
+## Point Particles
+  * What we expect to see in a point particle
+  * E field goes to infinity as distance from charge -> 0
+## Particles with an electrical Charge Distribution
+* What we see in a Diffuse "Gas Cloud"
+  * Computer simulation/Graphic here?
+
+# Quantum Scattering Expectations
+## What do I do here???
+
+# Historical Results
+
+# Scattering Experiments
+## Rutherford's Scattering Experiment
+  * Rutherford showed that the charges had to be clustered into small spots other wise the E field would have been too small to cause backscatter
+  * Set an upper bound for how big a proton could be
+  * Can't tell a really small radius from a point charge
+
+## Electron Scattering
+* ~0.8775 fm
+* Go over derivation
+
+
+## Electron Spectroscopy
+* Energy levels of electron orbits in are sensitive to Charge Distribution. 
+* Hydrogen only has a proton, thus the charge distribution must be a result of the proton radius
+~0.8768+-0.069 fm
+
+# Proton Radius Puzzle
+## Muon Spectroscopy
+0.844+-0.001 fm
+## Muon Scattering
+* MUSE
+
+# MUSE Experiment
+How much detail to go into?
+
+# Things I am confused by
+* going from a cross section to a radius
+* Quantum stuff
+

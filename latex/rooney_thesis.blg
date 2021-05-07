@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2019/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: rooney_thesis.aux
+The style file: plain.bst
+Database file #1: simple.bib
+You've used 6 entries,
+            2118 wiz_defined-function locations,
+            547 strings with 5095 characters,
+and the built_in function-call counts, 1841 in all, are:
+= -- 184
+> -- 60
+< -- 0
++ -- 25
+- -- 18
+* -- 138
+:= -- 314
+add.period$ -- 18
+call.type$ -- 6
+change.case$ -- 27
+chr.to.int$ -- 0
+cite$ -- 6
+duplicate$ -- 66
+empty$ -- 160
+format.name$ -- 18
+if$ -- 383
+int.to.chr$ -- 0
+int.to.str$ -- 6
+missing$ -- 6
+newline$ -- 33
+num.names$ -- 12
+pop$ -- 15
+preamble$ -- 1
+purify$ -- 21
+quote$ -- 0
+skip$ -- 45
+stack$ -- 0
+substring$ -- 155
+swap$ -- 6
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 24
+warning$ -- 0
+while$ -- 19
+width$ -- 7
+write$ -- 68
